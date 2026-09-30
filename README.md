@@ -20,4 +20,4 @@ I work at the intersection of the sequencing lab and the command line. I've anal
 
 `Python` `R` `Bash` `Nextflow` `Git` `Docker` `conda` · `BWA` `GATK` `samtools` `bcftools` `Salmon` `DESeq2` `fgsea` · `pandas` `scikit-learn` `SHAP` · `Illumina DRAGEN` `BaseSpace` `Cell Ranger` · `ClinVar` `GIAB` `NCBI` `BLAST`
 
-Contact: radandiswetcha@gmail.com
+Contact: radandiswetcha@gmail.com · [LinkedIn](https://www.linkedin.com/in/swetcha-radandi-191a0a2b0/)
